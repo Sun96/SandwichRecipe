@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">স্যান্ডউইচ  রেসিপি</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3420675499646666/2840863253</string>
+    <string name="interstitial_ad_id">ca-app-pub-3420675499646666/1921166278</string>
+    <string name="native_ad_id">ca-app-pub-3420675499646666/2820326734</string>
+
+    <string name="action_settings">Check for Update</string>
+    <string name="rate_app">Rate this APP</string>
+    <string name="exit">EXIT</string>
+    <string name="share_app">Share this APP</string>
+    <string name="more_app">More Apps</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">স্যান্ডউইচ  রেসিপি</string>
+    <string name="backdrop_subtitle">মজাদার ২০ স্যান্ডউইচ  রেসিপি</string>
+</resources>
